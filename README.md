@@ -1,2 +1,2 @@
-# xsl-loader
+# xsl2sql-converter
 Excel-SQL Converter
